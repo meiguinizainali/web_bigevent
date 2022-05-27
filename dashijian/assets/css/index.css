@@ -21,9 +21,10 @@ iframe{
 }
 
 
-/* a{
-    transition: none !important;  // 刷新页面有动画  去掉
-} */
+a{
+    transition: none !important; 
+}
+/*   刷新页面有动画  去掉 */
 
 .userinfo{
     height: 60px;
